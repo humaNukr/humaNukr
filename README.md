@@ -23,6 +23,6 @@ I'm a Junior Java Backend Developer focused on building scalable, reliable, and 
 #### ⚙️ My Engineering Approach
 I believe that writing code is only half the job. The real challenge is designing systems that don't fail under load, handling edge cases correctly, and ensuring strict data consistency. I aim for architectural precision in every project.
 
-📫 **How to reach me:** <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/fd30a8cd-c2b4-45ce-9c72-7869c84717c2" />
-[https://www.linkedin.com/in/artem-hrytsenko-humanukr/] | <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/93b7b6fa-97df-442f-8793-318554c848e3" />
+📫 **How to reach me:** <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/fd30a8cd-c2b4-45ce-9c72-7869c84717c2" />
+[https://www.linkedin.com/in/artem-hrytsenko-humanukr/] | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/93b7b6fa-97df-442f-8793-318554c848e3" />
 [artemgritsenko2007@gmail.com]
