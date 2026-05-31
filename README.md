@@ -10,7 +10,7 @@ I'm a Junior Java Backend Developer focused on building scalable, reliable, and 
 
 #### 🚀 Featured Projects
 
-*   **[Name of your Microservices Repo](https://github.com/humaNukr/tinder-microservices)**
+*   **[Social Dating Microservices — Distributed Matchmaking Platform](https://github.com/humaNukr/tinder-microservices)**
     *   A distributed backend system featuring inter-service communication.
     *   **Tech:** Java, Spring Boot, PostgreSQL, Kafka, Redis, MongoDB, JUnit 5, Testcontainers.
     *   **Highlights:** Implemented asynchronous messaging, caching strategies for performance optimization, and containerization using Docker.
