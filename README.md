@@ -6,7 +6,7 @@ I'm a Junior Java Backend Developer focused on building scalable, reliable, and 
 *   **Backend:** Java, Spring Boot, Spring Security, Spring WebFlux
 *   **Databases & Messaging:** PostgreSQL, MongoDB, Redis, Kafka
 *   **Testing:** JUnit 5, Testcontainers, Mockito
-*   **DevOps & Tools:** Docker, GitHub Actions, Git, Linux / Neovim
+*   **DevOps & Tools:** Docker, GitHub Actions, Git
 
 #### 🚀 Featured Projects
 
