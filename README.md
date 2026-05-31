@@ -1,6 +1,6 @@
 ### Hi there, I'm Artem 👋
 
-I'm a Junior Java Backend Developer focused on building scalable, reliable, and well-architected systems. I pay close attention to system design, clean code principles, and infrastructure details. Currently in my third year studying Software Engineering at NaUKMA.
+I'm a Junior Java Backend Developer focused on building scalable, reliable, and well-architected systems. I pay close attention to system design, clean code principles, and infrastructure details. Currently in my second year studying Software Engineering at NaUKMA.
 
 #### 💻 Tech Stack
 *   **Backend:** Java, Spring Boot, Spring Security, Spring WebFlux
